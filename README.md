@@ -1,12 +1,8 @@
-<div align="center">
-
 # 文凯公交
 
 <p align="center">
   <strong>Android 实时公交到站追踪应用</strong>
 </p>
-
-</div>
 
 ---
 
@@ -52,6 +48,5 @@
 ## 版本信息
 
 - 包名：`com.wkbus.app`
-- 版本：2.56 (versionCode 86)
+- 版本：2.6.1 (versionCode 96)
 - minSdk 26，targetSdk 36，compileSdk 37
-
