@@ -52,6 +52,6 @@
 ## 版本信息
 
 - 包名：`com.wkbus.app`
-- 版本：2.53 (versionCode 83)
+- 版本：2.55 (versionCode 85)
 - minSdk 26，targetSdk 36，compileSdk 37
 
