@@ -10,6 +10,16 @@
 
 文凯公交是一款面向日常通勤的 Android 实时公交应用，提供车辆站序、到站倒计时与沿途车辆状态，让候车更从容。
 
+![文凯公交 - 48城地铁全览](promo/banner-metro48.png)
+
+![文凯公交 - 公交实时到站](promo/banner-bus-realtime.png)
+
+![文凯公交 - 地铁时刻表](promo/banner-metro-timetable.png)
+
+![文凯公交 - 地铁换乘公交](promo/banner-transfer.png)
+
+![文凯公交 - 到站震动提醒](promo/banner-alighting-reminder.png)
+
 ## 功能
 
 - **实时到站预报**：线路上在途车辆的相对站序、预计到达时间与实时距离。
