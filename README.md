@@ -58,5 +58,5 @@
 ## 版本信息
 
 - 包名：`com.wkbus.app`
-- 版本：2.61felica (versionCode 100)
+- 版本：2.62 (versionCode 101)
 - minSdk 26，targetSdk 36，compileSdk 37
