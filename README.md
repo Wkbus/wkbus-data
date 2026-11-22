@@ -1,26 +1,34 @@
-# 文凯公交
-
 <p align="center">
   <strong>Android 实时公交到站追踪应用</strong>
 </p>
 
+
 ---
+
 
 ## 项目简介
 
+
 文凯公交是一款面向日常通勤的 Android 实时公交应用，提供车辆站序、到站倒计时与沿途车辆状态，让候车更从容。
+
 
 ![文凯公交 - 48城地铁全览](promo/banner-metro48.png)
 
+
 ![文凯公交 - 公交实时到站](promo/banner-bus-realtime.png)
+
 
 ![文凯公交 - 地铁时刻表](promo/banner-metro-timetable.png)
 
+
 ![文凯公交 - 地铁换乘公交](promo/banner-transfer.png)
+
 
 ![文凯公交 - 到站震动提醒](promo/banner-alighting-reminder.png)
 
+
 ## 功能
+
 
 - **实时到站预报**：线路上在途车辆的相对站序、预计到达时间与实时距离。
 - **线路走向图**：基于 Jetpack Compose 构建，支持横向平滑全景轨道与纵向时间轴两种视图。
@@ -37,7 +45,9 @@
 - **多语言**：简体中文、繁體中文、English、日本語、维吾尔语、藏语。
 - **深色模式**：遵循 Material 3 动态色彩与深色调优规范。
 
+
 ## 技术栈
+
 
 | 模块 | 方案 |
 | --- | --- |
@@ -48,15 +58,20 @@
 | 本地存储 | Jetpack DataStore Preferences |
 | 构建系统 | Gradle Kotlin DSL, Version Catalogs |
 
+
 ## 工程结构
+
 
 | 模块 | 说明 |
 | --- | --- |
 | `app` | 主应用：首页、搜索、线路详情、站点详情、收藏路线组、更多 |
 | `core/designsystem` | 共享设计系统组件与主题 |
 
+
 ## 版本信息
 
+
 - 包名：`com.wkbus.app`
-- 版本：2.65 (versionCode 104)
+- 版本：标准版 2.65 (versionCode 104) / SDK 版 2.70-sdk (versionCode 1109)
 - minSdk 26，targetSdk 36，compileSdk 37
+
