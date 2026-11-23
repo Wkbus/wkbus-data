@@ -55,7 +55,7 @@
 
 
 - 包名：`com.wkbus.app`
-- 版本：2.71 (versionCode 1110)
+- 版本：2.72 (versionCode 1111)
 - minSdk 26，targetSdk 36，compileSdk 37
 
 
